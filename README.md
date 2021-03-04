@@ -8,7 +8,7 @@ Collection of information for where to find applications upon OS reinstall.
 *ExternalDisplayBrightness - https://github.com/fnesveda/ExternalDisplayBrightness/ - System Preferences Pane (Launch at Login, For external display brightness control) - For external display brightness.  
 *Slack - https://apps.apple.com/us/app/slack/id803453959?mt=12
 *Grammarly for Safari - https://apps.apple.com/us/app/grammarly-for-safari/id1462114288?mt=12
-*Parcel - https://apps.apple.com/us/app/parcel-delivery-tracking/id639968404?mt=12
+*Parcel - https://apps.apple.com/us/app/parcel-delivery-tracking/id639968404?mt=12 (Sign in with Apple)
 *Pipifier - https://apps.apple.com/us/app/pipifier-pip-for-nearly-every-video/id1160374471?mt=12
 *Pages - https://apps.apple.com/us/app/pages/id409201541?mt=12
 *Numbers - https://apps.apple.com/us/app/numbers/id409203825?mt=12
@@ -30,7 +30,15 @@ Collection of information for where to find applications upon OS reinstall.
 *Paste - https://apps.apple.com/us/app/paste-clipboard-manager/id967805235 - Menu Bar (Launch at Login)
 *Meeter - https://apps.apple.com/us/app/meeter-for-zoom-teams-co/id1510445899 - Menu Bar (Launch at Login)
 *Displaperture - https://apps.apple.com/us/app/displaperture/id1543920362?mt=12
-
+*SoundSource - https://rogueamoeba.com/soundsource/ - Menu Bar (Launch at Login)
+*Bartender 4 - https://www.macbartender.com - Menu Bar (Launch at Login)
+*AdGuard - https://adguard.com
+*Dockey - https://dockey.publicspace.co
+*Docker - https://www.docker.com/get-started
+*Grammarly - https://download-editor.grammarly.com/osx/Grammarly.dmg
+*Grammarly for Safari - https://apps.apple.com/us/app/grammarly-for-safari/id1462114288?mt=12
+*Mission Control Plus - https://www.fadel.io/missioncontrolplus
+*Little Snitch - https://www.obdev.at/products/littlesnitch/download.html
 
 
 # Developer Applications Required:  
@@ -44,9 +52,16 @@ Collection of information for where to find applications upon OS reinstall.
 # Any commands that require python, remember to use "python3"!  
 *Python3 - https://www.python.org/downloads/  
 *pip - https://pip.pypa.io/en/stable/  
-*Django - https://www.djangoproject.com/download/  
+*Django - https://www.djangoproject.com/download/
+*Psycopg2 - https://www.psycopg.org/install/
+*Java JDK - https://www.oracle.com/java/technologies/javase-downloads.html
+*Java JRE - https://java.com/en/download/
 
 
 # Optional/Nice to Have:  
 *Discord - https://discord.com - Messaging  
 *The Un-archiver - https://apps.apple.com/us/app/the-unarchiver/id425424353?mt=12
+*CleanShotX - https://licenses.maketheweb.io/download/cleanshotx
+*TripMode - https://tripmode.ch/thank-you-for-downloading-tripmode3/
+*PixelSnap2 - https://licenses.maketheweb.io/download/pixelsnap2
+*Squash - https://apps.apple.com/us/app/squash-web-image-compression/id1152443474?mt=12
