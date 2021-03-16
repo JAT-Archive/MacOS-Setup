@@ -66,3 +66,5 @@ Collection of information for where to find applications upon OS reinstall.
 *TripMode - https://tripmode.ch/thank-you-for-downloading-tripmode3/  
 *PixelSnap2 - https://licenses.maketheweb.io/download/pixelsnap2  
 *Squash - https://apps.apple.com/us/app/squash-web-image-compression/id1152443474?mt=12  
+*Jettison - https://www.stclairsoft.com/Jettison/
+*IINA - https://iina.io
